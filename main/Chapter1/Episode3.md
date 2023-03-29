@@ -160,7 +160,7 @@ I'm all for it.The last thing they're expecting is for us to strike now.
 
 #Ayane
 I can't deny that,but...what do you think,Sensei?
-
+>deny 拒绝 否定
 #ME
 I'm on board.
 
