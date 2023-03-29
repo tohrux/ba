@@ -14,7 +14,7 @@ Are you ok?
 Nod.
 
 #Shiroko
-At least you're alive. I thought you were a honer when I saw you lying in the road like that.
+At least you're alive. I thought you were a goner when I saw you lying in the road like that.
 
 #Shiroko
 What's that? You fainted from hungry?
@@ -72,7 +72,7 @@ You look like you're an adult from the General Student Council.
 Are you here on some kind of academy-related business?
 Ours is the only one around.
 So you're here to visit Abydos Academy?
-Oh.It's bben a long time since anyone visited us.
+Oh.It's been a long time since anyone visited us.
 Let me show you the way.It's not too far from here.
 What? Too hungry to move?
 That's ...a problem.
@@ -163,7 +163,7 @@ You're with Scahle? The Federal Investigation Club？！
 
 #Nonomi
 Wow! That means you got the letter Ayane wrote！
-This is great.This means we can finally ge more ammo and supplies.
+This is great.This means we can finally get more ammo and supplies.
 
 #Ayane
 I have to tell Hoshino. Wait... Where is she anyway?
@@ -186,6 +186,8 @@ They're all out ammo! Finish 'em off.and then take over the school.
 #Ayane
 There's a group approaching the school!
 It must be the Kata-Kata Helmet Gang!
+>approaching 接近
+
 
 #Shiroko
 Those punks... They have some nerve coming back for more.

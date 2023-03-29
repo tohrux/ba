@@ -63,6 +63,7 @@ Nice to meet you
 I'm sure you've noticed by now now that our school is in crisis.That's why I reached out to Schale for help,and you've already managed to come through for us 
 
 >come through 经历；安然度过；获得成功
+>in crisis 危机关头
 >reached out 表示主动去联系某人或组织以获得支持、建议或协助
 
 #Ayane
