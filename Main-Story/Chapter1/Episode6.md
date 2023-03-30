@@ -1,108 +1,108 @@
-#Ayane
+# Ayane
 Serika?Are you there,Serika?
 
-#ENVIROMENT
+# ENVIROMENT
 \*ding dong\*
 
-#Ayane 
+# Ayane 
 Are you there? Why haven't you been answering your phone?
 Where does she keep her spare keys...?
 
-#Ayane
+# Ayane
 What's going on,Serika?Are you still not home yet?
 This is so strange
 Could it be...?
 
-#Nonomi
+# Nonomi
 What about her phone ?
 
-#Ayane
+# Ayane
 It's been turned off a few hours now...
 
-#Shiroko
+# Shiroko
 Her boss said she clocked out and left like everything was normal.
 Did she never make it home?
 > clocked out 打开下班
 > make it home 回家
 
-#Nonomi
+# Nonomi
 Nothing like this has ever happened before.She always gets home safely...
 
-#Shiroko
+# Shiroko
 You don't think...  Was it the Helmet Gang?
 
-#Ayane
+# Ayane
 what?
 
-#Shiroko
+# Shiroko
 A possibility, but let's not jump to conclusions.Hoshino and Sensei are still investigating.
 > investigating调查
 > conclusions结论
 
-#ENVIROMENT
+# ENVIROMENT
 \*open door\*
 
-#Hoshino
+# Hoshino
 Sorry to keep you waiting.
 
-#Ayane
+# Ayane
 Hoshino!Sensei!
 
-#ME
+# ME
 We're back
 
-#Shirono
+# Shirono
 Did you find out what happened?
 
-#Hoshino
+# Hoshino
 Sensei was able to log in to the General Student Council's central communication network.
 >central 中央的
 
-#Ayane
+# Ayane
 You are able to get into their network? Wow.Sensei's the real deal...
 >deal 真正的行家
 
-#Hoshono
+# Hoshono
 It's secret,though.We're in big trouble if they catch us.
 
-#Ayane
+# Ayane
 Wait! Does that mean you didn't ask for permission?!
 
-#ME
+# ME
 It's fine.It's for Serika's safety.
 
-#Hoshino
+# Hoshino
 This is the last known location of Serika's phone before it went offline.
 >last known location 最后已知位置
 
-#Nonomi
+# Nonomi
 That's one of the neighborhoods that's become more desolate,isn't it?
 
-#Shiroko
+# Shiroko
 It's more like an abandoned wasteland.There's no one there to enforce public safety, so there are a lot of outlaws skulking about.
 >skulk 鬼鬼祟祟
 
-#Ayane
+# Ayane
 Right.We found that Helmet Gangs members lived in those areas while researching risk factors surrounding the school.
 >factors因素
 
-#Ayane
+# Ayane
 So it really was them!
 
-#Hoshino
+# Hoshino
 They must have kidnapped Serika while she was on her way home and taken her to their hideout.
 
-#Shiroko
+# Shiroko
 Likely still bitter over our last battle.Maybe they took Serika hostage as a way to retaliate.
 >bitter over 感到愤怒或不满
 >take hostage 扣留人质
 >retaliate 报复
 
-#Nonomi
+# Nonomi
 Probably!! We have to go save her!
 
-#Hoshino
+# Hoshino
 There's no time to waste!
 
-#ME
+# ME
 let's go

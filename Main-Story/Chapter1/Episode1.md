@@ -1,22 +1,22 @@
-#Arona 
+# Arona 
 Good morning, Sensei!
 
-#Arona 
+# Arona 
 A lot of people are starting to talk about Schale, and we're received letters from other students asking for help.
 
-#Arona 
+# Arona 
 That's a great sign,and it means there's a lot of work for us to do!
 
-#Arona
+# Arona
 Um, but...there's this one letter we got.
 
-#Arona
+# Arona
 I think you should take a look.
 
-#ME
+# ME
 Read the letter
 
-#THE LETTER
+# THE LETTER
 To the advisor of the federal Investigation Club.
 Hello. My name is Okisora Ayane,and I'm a student at Abydos High School.
 I'm writing this letter because I want to ask for your help.
@@ -44,54 +44,54 @@ Can you help us,sensei?
 
 >At this rate,... ：at this rate 表示按照目前的情况发展下去，在英文中常用来表达对未来可能性或结果的预测。
 
-#Arona
+# Arona
 Hmm.. Abydos Hight School, huh?
 
-#Arona
+# Arona
 It used to have a large,thriving district,but it fell on hard times due to climate change.
 
 它曾经有一个繁荣的大区，但由于气候变化而陷入困境。
 
 >原文中使用了过去式 "used to" 表示这个地方以前存在过一个繁荣的大区。接着用了动词不定式结构 "have >a large, thriving district" 来描述这个大区的情况。然后使用了连词 "but" 引出转折，说明由于气候变化，这个地方遭受到了困难。最后使用了介词短语 "due to climate change" 来解释原因。
 
-#Arona
+# Arona
 The district was so big that people would even get lost in the middle of town
 
-#Arona 
+# Arona 
 Heehee.That must sound ridiculous.How does someone get lost in the middle of modern civilization?
 
 >ridiculous: adj. 可笑的，荒谬的
 
 >middle of modern civilization: 现代文明的中心
 
-#Arona
+# Arona
 I'm sure that was just an urban legend.
 
 >urban legend:都市传说
 
-#Arona
+# Arona
 Anyway,I can't believe the academy is being bullied by some lowlife gang.It sounds pretty serious.
 
 >bullied:bully过去分词，霸凌
 >lowlife:卑下的人
 
-#Arona
+# Arona
 I wonder what brought this on.
 
 >brougnt on:引起，导致
 
-#ME
+# ME
 I need to go to Abydos.
 
-#Arona
+# Arona
 You want to head there right away?
 
 >head there:前往
 
-#Arona
+# Arona
 You really don't back down, doe you ?
 All right,Good luck!
 
 
-#Me
+# Me
 I eventually arrived in Abydos，but got lost in the middle of the district. It took days to find the school

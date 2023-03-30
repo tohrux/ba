@@ -1,14 +1,14 @@
-#Serika
+# Serika
 I spotted a familiar face while walking through the neightborhood near Abydos.
 >spotted 发现
 
 Ugh,It's you again.
 
-#Me
+# Me
 Good morning!
 >act like 举止像
 
-#Serika
+# Serika
  wait,no! Don't act like we are friends!
  Hmph,Whatever.
  > 随便你怎么说
@@ -16,10 +16,10 @@ Good morning!
 Don't you have anything better to do than loiter around so early in the morning ? And you call yourself an adult...
 >loiter 虚度；闲逛
 
-#ME
+# ME
 Heading to school,Serika?
 
-#Serika
+# Serika
 What's with you ?! Stop acting like you know me !
 What I do is none of your business.
 Look at you hanging around with nothing better to do.I hope I nerver grow up to be as animless as you.
@@ -33,11 +33,11 @@ Besides,it's our day off.I don't have class.
 Huh?Then where am I going ? what business is that of yours?
 I'm outta here,Bye!
 
-#ME
+# ME
 Serika ran away.
 Follow her
 
-#Serika
+# Serika
 Huh? Why are you followin me?
 You wanna know where am I going ?
 What are you talking about ? Go away,you stalker!
@@ -48,10 +48,10 @@ I have money to make.
 There,happy now? So stop following me!
 >slack off偷懒
 
-#ME
+# ME
 follow her
 
-#Serika
+# Serika
 Ugh.You're so annoying.
 >annoying 烦人
 
@@ -59,9 +59,9 @@ What? Where do I work?
 Would you go away already，you idiot?! You're cruising for a bruising if you don't leave me alone.
 >你能不能走开，白痴？！如果你不离我远点儿，就等着挨揍吧。
 
-#<><><><>
+# <><><><>
 
-#Serika
+# Serika
 Welcome to Shiba Seki Ramen!
 
 How many are in your party? I'll show you to your seats.
@@ -69,164 +69,164 @@ Just a minutes! Extra noodles for table three!
 
 What the...?!
 
-#Nonomi
+# Nonomi
 HEllo!Table for five!
 
-#Ayane 
+# Ayane 
 Haha.Hello,Serika...
 
-#Shiroko
+# Shiroko
 Hey.
 
-#Serika
+# Serika
 What are you guys doing here?
 
-#Hoshino
+# Hoshino
 Heh! We knew you'd be here.
 
-#ME
+# ME
 hi
 
-#Serika
+# Serika
 Sensei is with you too...?Iknew you were staking me!
 
-#Hoshino
+# Hoshino
 Don't blame Sensei.We figured this was the only place you might work.so we just came by.
 >came by 路过
 
-#Serika
+# Serika
 So it was you,Hoshino?
 
-#Master SHiba
+# Master SHiba
 Are these your Abydos classmates? Serika? Stop with the chit-chat and take their order
 >点菜
 
-#Serika
+# Serika
 Y-yes,sir.Follow me.I'll take you to your table.
 
-#Nonomi
+# Nonomi
 Okay! over here,Sensei! sit next to me
 
-#Shiroko
+# Shiroko
 Um..Or you can sit here if you want/
 
-#Serika
+# Serika
 It's too narrow!Sitting that close can't possibly be comfortable for sensei. Move a little this way.
 
-#Shiroko
+# Shiroko
 No,it should be fine.Right ?sensi?
 
-#Serika
+# Serika
 But there are plenty of seats! can't you all just sit like NORMAL people?
 
-#Nonomi
+# Nonomi
 Your uniform is adorable,Serika!
 
-#Hoshino
+# Hoshino
 I didn't know you were into the kind of stuff.Chose to work here solely based on the uniform,did ya?
 >solely 仅仅
 >be into 喜欢；对...有兴趣
 
-#Serika
+# Serika
 Wh-What are you talking about ? It had nothing to do with that!
 I just used to be a regular here, that's all...
 >used to be a regular过去时常客
 
-#Hoshino
+# Hoshino
 I bet I could fetch a pretty yen if I sold pictures of you in that uniform,Serika.What do you say,Sensei? Wanna be my first customer?
 
-#Ayane 
+# Ayane 
 Knock it off,Hoshino...
 
-#Shiroko
+# Shiroko
 So, how long have you been working here?
 
-#Serika
+# Serika
 Maybe about a week.
 
-#Nonomi 
+# Nonomi 
 Now i get why you were running off from time to time.
 I guess it was because you were working.
 >time to time 时不时
 
-#Serika
+# Serika
 Would you all shut up already and place an order?
 
-#Hoshino 
+# Hoshino 
 I think what you meant was,"May I take your order?" Right,Serika?
 We're your guests here after all.
 
-#Serika
+# Serika
 Ugh..May I take your order?
 
-#Nonomi
+# Nonomi
 I'll have the chashu ramen,pls
 
-#Shiroko
+# Shiroko
 One shio ramen
 
-#Ayane 
+# Ayane 
 Hmm...I'd like the miso ramen.
 
-#Hoshino
+# Hoshino
 I want the special miso!With extra grilled chashu!
 
-#Hoshino
+# Hoshino
 Order whatever you want,Sensei.Shiba Seki Ramen is one of the best remaining restaurants in Abydos.
 
-#Serika
+# Serika
 Did you all bring your own money?You're not just going to make Nonomi pay again，are you?
 
-#Nonomi
+# Nonomi
 It's not like I mind .I'm still way under my card's credit limit.
 >still way 仍然
 
-#Hoshino
+# Hoshino
 Nah,we can't make you do that.Sensei is going to pick the tab up today!
 right?
 >pick the tab up 埋单
 What ? No one told you? Hha!well now you know!
 
-#ME
+# ME
 Run away
 
-#Hoshino
+# Hoshino
 Where do you think YOU'RE going?
 You've got credit to burn,right ? This is our chance to make use of it
 
-#Ayane 
+# Ayane 
 You can't force Sensei to pay. We only came because you said it was your treat,Hoshino
 >force 强迫
 >treat 请客
 
-#Hoshino
+# Hoshino
 This is perfect chance for Sensei to treat their students.Wallet-flexing opportunities like this don't come around every day.
 >Wallet-flexing 钱包收缩
 >opportunities 机会
 
-#Nonomi
+# Nonomi
 (Here,Sensei.Just pay with this card.)
 (Huh? Are you sure you don't want to? But..)
 
-#Me
+# Me
 I ended up paying for everyone's meals.
 
-#Hoshino
+# Hoshino
 That  was delicous,Sensei!
 
-#Shiroko
+# Shiroko
 Thanks.
 
-#Serika
+# Serika
 Would you all get out of here already? And never come back!You're nothing but a bunch of busybodies.
 >bunch of busybodies 多管闲事的人
 
-#Ayane
+# Ayane
 Hhahah！ See you tomorrow，Serika
 
-#Serika
+# Serika
 I hate you ！ I won't forget this
 
-#Hoshino
+# Hoshino
 Hhaha! SHe's got a lot of spunk,eh?
 >spunk 活力

@@ -1,48 +1,48 @@
-#*
+# *
 \*chirp\* \*chirp\* \*chirp\*
 
-#???
+# ???
 huh?
 
-#*
+# *
 \*screech\*
 
-#???
+# ???
 Are you ok?
 
-#ME
+# ME
 Nod.
 
-#Shiroko
+# Shiroko
 At least you're alive. I thought you were a goner when I saw you lying in the road like that.
 
-#Shiroko
+# Shiroko
 What's that? You fainted from hungry?
 
-#Shiroko
+# Shiroko
 Does that mean you're homeless?
 Oh..
 
-#Shiroko
+# Shiroko
 You came here on business,but fainted out of hungry and dehydration when you couldn't find a single shop open?
 
 >dehydration 脱水
 >on business 出差
 
-#Shiroko
+# Shiroko
 Well,that's hardly surprising.
 It happends all the time around here.It's been a long time since there were businessses open in the neighborhood that offer food and drinks.
 
 >neighborhood 附近
 >businesses 商店
 
-#Shiroko
+# Shiroko
 You would have more luck further toward the outskirts.
 
 >toward the outskirt 朝着城市的边缘地带
 >further 偏远的
 
-#Shiroko
+# Shiroko
 You're not sure how to get there? So this must be your first time here.
 hold on.
 Here. Have some of my energy drink.
@@ -51,22 +51,22 @@ Wait.Let me get you a cup or something.
 
 >cycling 自行车
 
-#ME
+# ME
 Drink it straight from the bottle.
 \*gulp\* \*gulp\* \*gulp\*
 
 >straight 直接的 
 
-#Shiroko
+# Shiroko
 ...!
 You weren't supposed to ...
 Never mind. Don't worry about it.
 
 
-#ME
+# ME
 Thank her for coming to your rescue.
 
-#Shiroko
+# Shiroko
 Um...
 You look like you're an adult from the General Student Council.
 Are you here on some kind of academy-related business?
@@ -77,16 +77,16 @@ Let me show you the way.It's not too far from here.
 What? Too hungry to move?
 That's ...a problem.
 
-#ME
+# ME
 Ask for a ride
 
-#Shiroko
+# Shiroko
 But my bike only has one seat.
 
-#ME
+# ME
 Ask hre for a piggyback ride instead.
 
-#Shiroko
+# Shiroko
 Fine。I'd rather do that.
 Let me just park my bike.
 Hop on.
@@ -96,152 +96,152 @@ I usualy have to take a shower at school afterward and keep a change of clothes 
 >sweat 汗
 >afterward 以后
 
-#Shiroko
+# Shiroko
 Ha? You don't mind?
 You actually think I smell good?
 What is anyone supposed to say to that ? whatever.As long as you're not going to  complain. Let's go.
 
-#Shiroko
+# Shiroko
 Hold on tight.
 
 >抱紧
 
-#Shiroko
+# Shiroko
 I'm back
 
-#Serika
+# Serika
 Welcome back,Shiroko?
 Who's that riding on your back?!
 
-#Nonomi
+# Nonomi
 Whoa! Shiroko kidnapped someone!
 >kidnapped 绑架
 
-#Ayane
+# Ayane
 That or it's a dead body!What did you do,Shiroko?!
 
-#Serika
+# Serika
 Everyone, calm down. We have to help her hide the body!
 Go grab a shovel and pickaxe from the storage!
 >grab 取
 >shovel 铲子
 >pickaxe 镐子
 
-#ME
+# ME
 \*collapses\*
 >倒塌 失败 体力不支
 
-#Shiroko
+# Shiroko
 Settle down-- they're alive and breathing.They just came to visit the school.
 
-#Ayane
+# Ayane
 What? It's not a corpse?
 
-#Serika
+# Serika
 A visitor？Are you sure you didn't kidnap them?
 
-#Shiroke
+# Shiroke
 Uh...
 
-#ME
+# ME
 Greet them with a smile
 
-#Nonomi
+# Nonomi
 I'm shocked.We haven't had a visitor in ages.
 
-#Ayane
+# Ayane
 True...but were we expecting anyone?
 
-#ME
+# ME
 I'm an advisor with Schale.It's nice to meet you.
 
-#Ayane
+# Ayane
 No way! Are you?!
 
-#Serika
+# Serika
 You're with Scahle? The Federal Investigation Club？！
 
-#Nonomi
+# Nonomi
 Wow! That means you got the letter Ayane wrote！
 This is great.This means we can finally get more ammo and supplies.
 
-#Ayane
+# Ayane
 I have to tell Hoshino. Wait... Where is she anyway?
 
-#Seirka
+# Seirka
 She's taking a nap in the next room.I'll go wake her up.
 \*pop\*\*pop\*\*pop\*\*pop\*
 
-#Nonomi
+# Nonomi
 Was that gunfire?
 
-#Helmet Gangster B
+# Helmet Gangster B
 Hahahah！
 
-#Helmet Gangster A
+# Helmet Gangster A
 They're all out ammo! Finish 'em off.and then take over the school.
 >Finish 'em off finish them off 干掉她们
 >take over 占领
 
-#Ayane
+# Ayane
 There's a group approaching the school!
 It must be the Kata-Kata Helmet Gang!
 >approaching 接近
 
 
-#Shiroko
+# Shiroko
 Those punks... They have some nerve coming back for more.
 >punks 混混
 >nerve 胆量
 
-#Serika
+# Serika
 I've got hoshino!Now if she'd just wake up
 >如果她会醒来
 
-#Hoshino
+# Hoshino
 \*yawn\* Just five more mins
 
-#Ayane
+# Ayane
 Hoshino! The Helmet Gang is attacking again!By the way,this is Sensei from Schale.
 
-#Hoshino
+# Hoshino
 Ohhh.That's a problem... \*yawn\* Nice to meet you, Sensei.
 
-#Serika
+# Serika
 Wake up and get your butt in gear,Hoshino!Literally! We have to defend the school!
 >Literally 真的
 >get butt in gear 打起精神，行动起来
 
-#Hoshino
+# Hoshino
 \*yarn\*Don't they know it's rude to wake the elderly during naptime?Time to teach those Helmet Gang whippersnappers a lesson.
 
 >elderly 老年人
 > Whippersnappers"是一个英语俚语，通常用来形容年轻人或孩子。它的字面意思是“鞭打小树枝的人”，但在这里实际上指那些缺乏经验、不成熟或粗鲁的年轻人。
 
-#Shiroko
+# Shiroko
 Let's get going. Sensei brought us ammo and supplies to use.
 
-#Nonomi
+# Nonomi
 Okay!let's sortie,everyone!
 >sortie 出击
 
-#Ayane
+# Ayane
 I'll navigate us from here.
 >navigate 导航
 
 Stay on the back lines and provide support,Sensei!
 
-#Ayane
+# Ayane
 The kata-Kata Helmet Gang is retreating from the district
 >retreating 撤退
 >ditrict 区域
 
-#Nonomi
+# Nonomi
 Wow! we won!
 
-#Serika
+# Serika
 Hahah! How do you like that,Helmet gang？
 
-#Ayane
+# Ayane
 Great job,everyone! You're safe to return to campus.
 >campus 校园
