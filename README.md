@@ -1,2 +1,2 @@
-# ba
+# BlueArchive story
  

@@ -53,7 +53,7 @@ I know, but they're still an outsider.
 
 #Hoshino
 I'm not saying Sensei can solve this problem on our behalf，but they're the only adult we have to turn to.
->on behalf 代表xx
+>on behalf 为了
 >turn to 求助
 
 #Hoshino
