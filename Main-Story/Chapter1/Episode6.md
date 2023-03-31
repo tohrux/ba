@@ -106,3 +106,121 @@ There's no time to waste!
 
 # ME
 let's go
+
+# Serika
+Ugh...
+Where am I ? Was I kidnapped?!
+Ow...My head.
+Is this the back of a truck?
+>truck 卡车
+The Helmet Gang... Where could they be taking me ?
+It's dark,but there is a little bit of light coming throught the crack in the door.
+Maybe I can see something outside...
+Sand..and a railroad?
+Does that mean we're in the desert on the outskirt of Abydos?
+No... There's nothing but wasteland out here and no way to get a signal.
+>wasteland 荒地
+I won't be able to contact the others even if I do manage to escape.
+>manage 设法做到
+>even if 即使
+What should I do ? They must be worried sick about me.
+>worried sick 非常担心
+Are they going to bury me somewhere in the desert so no one can find me?
+>bury 埋葬
+Maybe the team well think I bailed on them and left like all the other students...
+>bail 摆脱 离开
+Will they think I betrayed them?
+>betray 出卖；背叛
+Is this how I'm going to die...?
+No.I can't let that happen...
+
+What's that?!
+What the heck? An explosion? Why did that truck blow up out of nowhere?!
+>out of nowhere 突然出现
+>blow up爆炸
+Where are these shells coming from?
+>shells 贝壳
+
+# Ayane
+I've located Serika!
+
+# Serika
+A-Ayane?
+
+# Shiroko
+I have eyes on her! Repeat:visual on Serika!She's crying!
+
+# Hoshino
+What?! Our little Serika is crying?Aw, she must have missed us.
+I had no idea she cared so much!
+
+# Serika
+Ugh! You guys are so annoying! I wasn't crying!
+
+# Shiroko
+False! I can confirm there were tears in your eyes just moments ago!
+
+# Nonomi
+Don't cry,Serika!We're here now,and we promise to dry those tear-soaked cheeks of yours!
+
+> soaked 湿透的 
+>
+> cheek 脸颊
+>
+> dry 使...变干
+
+# Serika
+
+Damn it! Could you be any more grating!! I said I wasn't crying, so shut up already!
+
+> grating 恼人的 ；刺耳的
+
+# Me
+
+I'm glad to see you're okay.
+
+# Serika
+
+What？Your're here too,Sensei?! But why?
+
+# Me
+
+I'm a stalker,remember?
+
+# Serika
+
+What are you talking about? You're such a perv!
+
+> perv 变态
+
+# Hoshino
+
+Heh.Our damsel in distress has been rescued.She's gonna be fine.
+
+> distress 危难；险情
+>
+> damsel 少女
+
+# Ayane
+
+Thank goodness.I was so worried about you,Serika.
+
+# Shiroko
+
+It's too soon to let our guard down.We may have stopped the truck,but we're still in enemy territory.
+
+> territory领土
+
+# Hoshino
+
+You're right.Reinforcements are likely on the way now that the truck's been destroyed.
+
+> Reinforcements增援
+
+# Ayane
+
+Multiple hostiles from the kata-kata Helmet Gang confirmed ahead!
+
+> hostile 敌人
+
+I also see more than a handful of super heavy firearms!They're steadilly forming a dragnet!
