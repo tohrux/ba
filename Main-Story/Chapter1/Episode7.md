@@ -113,7 +113,7 @@ The best fixers in all of Kivotos.
 Huh?
 Wait...Sensei?!What are you doing here?
 
-#ME
+# ME
 I came to see how you were doing.
 
 #Serika
@@ -121,10 +121,10 @@ Oh,I'm fine. I should't be spending so much time lying around doing nothing anyw
 I don't want to worry Ayane or the others too much.Plus,I have my part-time job to go to.
 You don't have to worry about me so much! I'm fine,really.
 
-#ME
+# ME
 that's relief
 
-#Serika
+# Serika
 Uh,so...By the way!
 The thing is...
 Looking back on it,I don't think I ever thanked you,Sensei... 
