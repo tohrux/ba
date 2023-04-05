@@ -224,3 +224,19 @@ Multiple hostiles from the kata-kata Helmet Gang confirmed ahead!
 > hostile 敌人
 
 I also see more than a handful of super heavy firearms!They're steadilly forming a dragnet!
+
+# Hoshino
+
+Me and my big mouth! Ugh.What do you say we push our way through these losers
+
+# Serika
+
+Be careful.Those goons have a modified heavy tank.
+
+> goon暴徒；呆子
+
+# Shiroko
+
+Yeah,we know.It's refurbished Flak 41.
+
+> refurbished 翻新
